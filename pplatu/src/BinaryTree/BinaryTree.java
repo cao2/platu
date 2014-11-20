@@ -5,7 +5,7 @@ import java.util.*;
 public class BinaryTree {
 
 	/** changed by Yuting Cao nov 20th**/
-	
+	/** changed on github 15:29**/
 	/* Tables for storing nodes that are not root. */
 	HashMap<Node, Node> uniqueNodeTbl;
 	Vector<Node> NodeIdxTbl;
