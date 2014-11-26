@@ -8,7 +8,7 @@ public class BinaryTree {
 	/** changed on github 15:29**/
 	
 	/* modified by Hao */
-	
+	/* lalala */
 	/* Tables for storing nodes that are not root. */
 	HashMap<Node, Node> uniqueNodeTbl;
 	Vector<Node> NodeIdxTbl;
