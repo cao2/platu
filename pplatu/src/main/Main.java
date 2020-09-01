@@ -17,6 +17,8 @@ import java.util.Properties;
 import java.util.StringTokenizer;
 import static java.lang.Runtime.*;
 
+
+// *** Main Entry point
 public class Main {
 
 	// Static variables
